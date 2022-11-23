@@ -9,12 +9,10 @@ hello()
 import css from "./style.css";
 
 import "./heder.js"
-// import"./component/cover/cover"
+ 
+// import"./bio/bio.js"
 
-import"./bio/bio"
 
-
-// import img from "./img.png"
-
+ 
 
  
